@@ -1,3 +1,3 @@
-# fib-md
-Proyectos de la asignatura de Inteligencia Artificial (fib-upc)
+## fib-md
+Proyectos de la asignatura de Mineria de Datos (fib-upc)
 
